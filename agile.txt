@@ -1,0 +1,14 @@
+Agile: Project Management yang Fokus ke Pengguna
+Metode Klasik : Metode pengembangan perangkat lunak (Software Development Methodology)mengacu pada kerangka yang digunakan untuk membuat struktur, rencana, dan kontrol dari proses pengembangan sebuah sistem (khususnya sistem informasi). Dalam kata lain dapat dikatakan juga sebagai sebuah pendekatan yang  digunakan  oleh  organisasi  atau  sebuah  tim  dalam mengembangkan perangkat lunak.
+
+1. contoh penerapan agile dalam pengembangan mobil karena mobil lebih familiar untuk semua kalangan.
+Di dalam metode Agile dengan menggunakan contoh yang sama, setelah membuat daftar tentang apa yang dibutuhkan target pengguna dari sebuah mobil saatnya memilah fitur tersebut untuk diprioritaskan semisal suspensi yang nyaman pada urutan pertama.
+di mana agile lebih melibatkan klien / kustomer dalam  menyempurnakan bagian-bagian kecil dari sebuah produk.
+
+2. contoh penerapan klasik dalam pengembangan mobil.
+Katakanlah kita ingin membuat sebuah mobil. Pada metode waterfall kita membuat list tentang apa yang dibutuhkan oleh pengguna dari mobil tersebut mulai dari jenis mobil,  kapasitas penumpang, tenaga mesin, sistem transmisi, sistem pengendalian, dan sebagainya. Lalu kita akan mendesain mobil secara keseluruhan mulai dari chasis, body, mesin, hingga interior. Setelah keseluruhan desain diselesaikan mungkin kita akan meminta persetujuan dari klien yang memesan mobil tersebut dan kemudian memproduksi bagian-bagiannya satu persatu.
+
+3. Metodologi Agile
+Analisis Proyek : Menganalisis proyek sistem yang ingin dikembangakan 
+Pengembangan Proyek : Proses pengembangan sistem dilakukan
+Testing Proyek : Mencoba sistem yang sudah selesai sebelum diberikan kepada client Apabila sistem lulus test dan tidak ada perubahan-perubahan, maka sistem tersebut sudah bisa digunakan oleh client. Sementara apabila masih terjadi perubahan-perubahan maka kembali lagi ke proses awal. 
